@@ -1,12 +1,19 @@
-print("Day 1")
-
-print("Sullivan")
-print("October 22th, 2022")
-
-print("""I am signing up for Replit's 100 days of Python challenge!
-I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day.
-I'll be using Replit, an amazing online IDE so I can do this from my phone wherever I happen to be. No excuses for not coding from the middle of a field!""")
-
-print("I am feeling \U0001f600")
-
-print("You can follow my progress at replit.com/@sscastilho")
+print("Day 2")
+print()
+print("Getting to know you!")
+print()
+YourName = input("What's your name?: ")
+Hungry = input ("What's your favorite food?: ")
+Music = input("What's your favorite music? ")
+WhereAreYou = input("Where do you live?: ")
+print() 
+print("You are")
+print(YourName)
+print("You're probably hungry for")
+print(Hungry)
+print("and you're definitely getting your groove on to")
+print (Music)
+print ("living in the amazing")
+print (WhereAreYou)
+print()
+print("#replit100DaysOfCode")
